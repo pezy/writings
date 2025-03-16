@@ -1,4 +1,4 @@
-# nash
+# writings
 
-Nash is stand alone note as HTML.
+writings is stand alone note as HTML.
 
